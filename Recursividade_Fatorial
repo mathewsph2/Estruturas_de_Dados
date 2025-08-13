@@ -1,0 +1,25 @@
+// ESTRUTURAS DE DADOS
+// Recursividade em Procedimentos e Funções
+
+// Algoritmo Recursivo - Fatorial 
+
+class Program
+{
+    public static int Fat(int n)
+    {
+        if (n == 0) // Condição de parada
+            return 1;
+        else
+            return n * Fat(n - 1); // Função que chama a si própria recursivamente; 
+    }
+
+    public static void Main(string[] args)
+    {
+        int n;
+
+        Console.WriteLine("Informe o valor de N:");
+        n = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write(Fat(n));
+    }
+}
