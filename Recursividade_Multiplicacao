@@ -1,0 +1,29 @@
+// ESTRUTURAS DE DADOS
+// Recursividade em Procedimentos e Funções
+
+// Multiplicação - Algoritmo Recursivo
+
+class Program
+{
+    public static int Multiplicar(int m, int n)
+    {
+        if (n == 0)
+            return 0;
+        else
+            return m + Multiplicar(m, n - 1);
+    }
+
+
+    public static void Main(string[] args)
+    {
+        int m, n;
+
+        Console.WriteLine("Informe o valor de M:");
+        m = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Informe o valor de N:");
+        n = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write(Multiplicar(m, n));
+    }
+}
