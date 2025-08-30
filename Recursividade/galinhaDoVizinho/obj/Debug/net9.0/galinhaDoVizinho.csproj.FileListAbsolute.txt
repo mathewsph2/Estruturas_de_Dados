@@ -1,0 +1,14 @@
+E:\JAVA SCRIPT\galinhaDoVizinho\bin\Debug\net9.0\galinhaDoVizinho.exe
+E:\JAVA SCRIPT\galinhaDoVizinho\bin\Debug\net9.0\galinhaDoVizinho.deps.json
+E:\JAVA SCRIPT\galinhaDoVizinho\bin\Debug\net9.0\galinhaDoVizinho.runtimeconfig.json
+E:\JAVA SCRIPT\galinhaDoVizinho\bin\Debug\net9.0\galinhaDoVizinho.dll
+E:\JAVA SCRIPT\galinhaDoVizinho\bin\Debug\net9.0\galinhaDoVizinho.pdb
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.GeneratedMSBuildEditorConfig.editorconfig
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.AssemblyInfoInputs.cache
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.AssemblyInfo.cs
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.csproj.CoreCompileInputs.cache
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.dll
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\refint\galinhaDoVizinho.dll
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.pdb
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\galinhaDoVizinho.genruntimeconfig.cache
+E:\JAVA SCRIPT\galinhaDoVizinho\obj\Debug\net9.0\ref\galinhaDoVizinho.dll
