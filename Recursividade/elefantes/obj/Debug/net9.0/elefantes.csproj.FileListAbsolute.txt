@@ -1,0 +1,14 @@
+E:\Estrutruras de Dados\elefantes\bin\Debug\net9.0\elefantes.exe
+E:\Estrutruras de Dados\elefantes\bin\Debug\net9.0\elefantes.deps.json
+E:\Estrutruras de Dados\elefantes\bin\Debug\net9.0\elefantes.runtimeconfig.json
+E:\Estrutruras de Dados\elefantes\bin\Debug\net9.0\elefantes.dll
+E:\Estrutruras de Dados\elefantes\bin\Debug\net9.0\elefantes.pdb
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.AssemblyInfoInputs.cache
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.AssemblyInfo.cs
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.csproj.CoreCompileInputs.cache
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.dll
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\refint\elefantes.dll
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.pdb
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\elefantes.genruntimeconfig.cache
+E:\Estrutruras de Dados\elefantes\obj\Debug\net9.0\ref\elefantes.dll
